@@ -27,6 +27,6 @@
     "uuid": "8.3.2"
   },
   "devDependencies": {
-    "better-npm-audit": "3.2.1"
+    "better-npm-audit": "3.7.3"
   }
 }
