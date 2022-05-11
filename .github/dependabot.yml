@@ -1,0 +1,8 @@
+version: 2
+updates:
+  - package-ecosystem: 'npm'
+    directory: '/'
+    schedule:
+      interval: 'daily'
+      time: "16:07"
+      timezone: "Asia/Jakarta"
