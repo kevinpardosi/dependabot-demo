@@ -21,7 +21,7 @@
     "joi": "17.4.2",
     "lodash": "4.17.21",
     "moment": "2.29.1",
-    "mysql2": "2.3.0",
+    "mysql2": "2.3.3",
     "sequelize": "6.6.5",
     "sequelize-cli": "6.3.0",
     "uuid": "8.3.2"
